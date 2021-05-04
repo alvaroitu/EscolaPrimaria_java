@@ -3,8 +3,7 @@ package funcionarios;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		Professor p1 = new Professor();
 		Professor p2 = new Professor();
 		Diretora d1 = new Diretora();
